@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://druva.readthedocs.io/en/latest/
