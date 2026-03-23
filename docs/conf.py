@@ -28,9 +28,3 @@ html_context = {
 
 # Base URL for sitemap
 html_baseurl = 'https://druva.readthedocs.io/en/latest/'
-
-=========================================================================================================================
-docs/robots.txt
-User-agent: *
-Allow: /
-Sitemap: https://druva.readthedocs.io/en/latest/
